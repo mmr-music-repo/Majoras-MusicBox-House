@@ -1,4 +1,5 @@
-# Majoras-MusicBox-House
+# Majoras-MusicBox-House 
+
 The .zip here contains the resources required for custom music sequences for the Ocarina of Time & Majoras Mask Randomizer.
 
 To be able to use the MMR-Sequences in OoTR please read the "create_mm_audiobin" Readme.
@@ -20,7 +21,7 @@ You can also submit a true remix or original creation if you do not wish to recr
 
 
 # DMCA-Critical Sequences
-Use them at your own risk.
+Use them at your OWN risk.
 
 
 # Credits 
