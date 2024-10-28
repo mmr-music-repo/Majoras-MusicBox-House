@@ -21,7 +21,7 @@ You can also submit a true remix or original creation if you do not wish to recr
 
 
 # DMCA-Critical Sequences
-Use them at your own risk.
+Use them at your OWN risk.
 
 
 # Credits 
