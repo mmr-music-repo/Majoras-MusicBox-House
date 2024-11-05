@@ -25,4 +25,18 @@ You can also submit a true remix or original creation if you do not wish to recr
 Use them at your OWN risk.
 
 # Credits 
-* [Spreadsheet](https://docs.google.com/spreadsheets/d/1Yvgjex502cB_dVvvZm0a88aGL4WNFOm-5XvEbZLkWqI/edit)
+- [Spreadsheet](https://docs.google.com/spreadsheets/d/1Yvgjex502cB_dVvvZm0a88aGL4WNFOm-5XvEbZLkWqI/edit)
+- Ainurmusician64
+- Amalgorithmic
+- Crimsonae
+- Darkychao
+- DetectiveSky612
+- Fish
+- Isghj
+- Philos_kun
+- Professor Stupid
+- TheRealPixelShake
+- WEEMS
+- Yaruzu
+- Zeraphyr
+- ZoeyZolotova
