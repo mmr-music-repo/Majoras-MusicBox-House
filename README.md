@@ -1,8 +1,9 @@
 # Majoras-MusicBox-House 
 
-The `.zip` here contains the resources required for custom music sequences for the Ocarina of Time & Majora's Mask Randomizer.
+The `.zip` here contains the resources required for custom music sequences for the Ocarina of Time & Majora's Mask Randomizers.
 
-To be able to use the sequence made for Majora's Mask Randomizer in Ocarina of Time Randomizer, please read the readme: `create_mm_audiobin.txt`.
+### Majora's Mask Randomizer Music in Ocarina of Time Randomizer
+To use music files (`.mmrs`) created for Majora's Mask Randomizer in Ocarina of Time Randomizer, please read the guide in the "Majora's Mask Audiobin" folder of this repository.
 
 # Requests
 If there is a song you would like to be converted to Nintendo 64's compressed MIDI format (`.seq`, `.aseq`, `.zseq`), then packed into a Majora's Mask custom music file (`.mmrs`), and added to the repository, feel free to request it by opening an issue with "`[Request]`" in the title.
@@ -22,7 +23,6 @@ You can also submit a true remix or original creation if you do not wish to recr
 
 # DMCA-Critical Sequences
 Use them at your OWN risk.
-
 
 # Credits 
 * [Spreadsheet](https://docs.google.com/spreadsheets/d/1Yvgjex502cB_dVvvZm0a88aGL4WNFOm-5XvEbZLkWqI/edit)
