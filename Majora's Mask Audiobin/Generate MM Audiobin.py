@@ -32,7 +32,7 @@ def main():
     with open(input_file, 'rb') as rom:
         rom.seek(AudioBank_Index_Offset)
         Audiobank_Index = rom.read(AudioBank_Index_Size)
-        file_name = "Audiobank_Index"
+        file_name = "Audiobank_index"
         file_path = os.path.join(tmp_directory, file_name)
         with open(file_path, "wb") as file:
             file.write(Audiobank_Index)
@@ -46,7 +46,7 @@ def main():
 
         rom.seek(AudioTable_Index_Offset)
         Audiotable_Index = rom.read(AudioTable_Index_Size)
-        file_name = "Audiotable_Index"
+        file_name = "Audiotable_index"
         file_path = os.path.join(tmp_directory, file_name)
         with open(file_path, "wb") as file:
             file.write(Audiotable_Index)
