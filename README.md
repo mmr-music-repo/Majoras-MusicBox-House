@@ -1,16 +1,15 @@
-# Majoras-MusicBox-House 
+# Majoras Music-Box House 
 
-The `.zip` here contains the resources required for custom music sequences for the Ocarina of Time & Majora's Mask Randomizers.
+This repository contains custom music files for the Majora's Mask Randomizer, as well as the tools necessary to create a Majora's Mask audiobin file so Majora's Mask Randomizer custom music files can be used with the Ocarina of Time Randomizer.
 
-### Majora's Mask Randomizer Music in Ocarina of Time Randomizer
-To use music files (`.mmrs`) created for Majora's Mask Randomizer in Ocarina of Time Randomizer, please read the guide in the "Majora's Mask Audiobin" folder of this repository.
+### Majora's Mask Audiobin
+To learn how to create a Majora's Mask audiobin file, please read the guide in the "Majora's Mask Audiobin" folder of this repository.
 
 # Requests
-If there is a song you would like to be converted to Nintendo 64's compressed MIDI format (`.seq`, `.aseq`, `.zseq`), then packed into a Majora's Mask custom music file (`.mmrs`), and added to the repository, feel free to request it by opening an issue with "`[Request]`" in the title.
+If there is a song you would like to be converted to Nintendo 64's compressed MIDI format (`.seq`), then packed into a Majora's Mask custom music file (`.mmrs`), and added to the repository, feel free to request it by opening an issue with "`[Request]`" in the title.
 
 # Issues with Sequences
-
-Should you find while playing yourself — or while watching a stream — that a track has volume issues or other in-game issues, please feel free to either open an issue, or contact us in [Discord](https://discord.gg/EVpd499gkS) in the `#songs-with-issues` channel.
+Should you find — while playing yourself or watching a stream — that a track has volume issues or other in-game issues, please feel free to either open an issue, or contact us in [Discord](https://discord.gg/EVpd499gkS) in the `#songs-with-issues` channel.
 
 
 # Submissions
