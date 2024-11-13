@@ -6,7 +6,7 @@ This repository contains custom music files for the Majora's Mask Randomizer, as
 To learn how to create a Majora's Mask audiobin file, please read the guide in the "Majora's Mask Audiobin" folder of this repository.
 
 # Requests
-If there is a song you would like to be converted to Nintendo 64's compressed MIDI format (`.seq`), then packed into a Majora's Mask custom music file (`.mmrs`), and added to the repository, feel free to request it by opening an issue with "`[Request]`" in the title.
+If there is a song you would like to be converted to a Majora's Mask binary sequence file (`.seq`), then packed into a Majora's Mask custom music file (`.mmrs`), and added to the repository, feel free to request it by opening an issue with "`[Request]`" in the title.
 
 # Issues with Sequences
 Should you find — while playing yourself or watching a stream — that a track has volume issues or other in-game issues, please feel free to either open an issue, or contact us in [Discord](https://discord.gg/EVpd499gkS) in the `#songs-with-issues` channel.
