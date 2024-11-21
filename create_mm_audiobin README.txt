@@ -14,3 +14,5 @@ Enjoy the enhanced experience with custom music from Majoras Mask Randomizer in 
 IMPORTANT:
 For the time being i suggest not using the "Display Custom Music Names" Option, due to it showing you under circumstances the full path of the file used instead of the Cusom Music Title.
 Also given MMR Music is not "copyright issue" checked as DJ. Use at your own risk.
+
+The above Issue is fixed with Dev Version 8.2.26 or newer.
