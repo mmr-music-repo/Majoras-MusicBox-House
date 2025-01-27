@@ -1,1 +1,1436 @@
-[]
+[
+  {
+    "game": "DELTARUNE",
+    "series": "",
+    "platforms": [],
+    "abbrName": "DELTARUNE"
+  },
+  {
+    "game": "Mario Party",
+    "series": "Mario Party Series",
+    "platforms": [],
+    "abbrName": "Mario Party"
+  },
+  {
+    "game": "Final Fantasy 7",
+    "series": "Final Fantasy Series",
+    "platforms": [],
+    "abbrName": "Final Fantasy 7"
+  },
+  {
+    "game": "Final Fantasy 6",
+    "series": "Final Fantasy Series",
+    "platforms": [],
+    "abbrName": "Final Fantasy 6"
+  },
+  {
+    "game": "Fanfares",
+    "series": "Nintendo Gamecube",
+    "platforms": [],
+    "abbrName": "Fanfares"
+  },
+  {
+    "game": "Final Fantasy 9",
+    "series": "Final Fantasy Series",
+    "platforms": [],
+    "abbrName": "Final Fantasy 9"
+  },
+  {
+    "game": "Mario Tennis",
+    "series": "Mario Sports Series",
+    "platforms": [],
+    "abbrName": "Mario Tennis"
+  },
+  {
+    "game": "Mario Golf - Toadstool Tour",
+    "series": "Mario Sports Series",
+    "platforms": [],
+    "abbrName": "Mario Golf - Toadstool Tour"
+  },
+  {
+    "game": "Xexyz",
+    "series": "",
+    "platforms": [],
+    "abbrName": "Xexyz"
+  },
+  {
+    "game": "Dark Cloud",
+    "series": "Dark Cloud Series",
+    "platforms": [],
+    "abbrName": "Dark Cloud"
+  },
+  {
+    "game": "Suikoden II",
+    "series": "Suikoden Series",
+    "platforms": [],
+    "abbrName": "Suikoden II"
+  },
+  {
+    "game": "Drakengard",
+    "series": "Drakengard Series",
+    "platforms": [],
+    "abbrName": "Drakengard"
+  },
+  {
+    "game": "New Super Mario Bros. Wii",
+    "series": "Super Mario Series",
+    "platforms": [],
+    "abbrName": "New Super Mario Bros. Wii"
+  },
+  {
+    "game": "Super Mario Maker 2",
+    "series": "Super Mario Series",
+    "platforms": [],
+    "abbrName": "Super Mario Maker 2"
+  },
+  {
+    "game": "Super Mario Sunshine",
+    "series": "Super Mario Series",
+    "platforms": [],
+    "abbrName": "Super Mario Sunshine"
+  },
+  {
+    "game": "Super Mario RPG",
+    "series": "Super Mario Series",
+    "platforms": [],
+    "abbrName": "Super Mario RPG"
+  },
+  {
+    "game": "Super Mario 64",
+    "series": "Super Mario Series",
+    "platforms": [],
+    "abbrName": "Super Mario 64"
+  },
+  {
+    "game": "Super Mario Galaxy 2",
+    "series": "Super Mario Series",
+    "platforms": [],
+    "abbrName": "Super Mario Galaxy 2"
+  },
+  {
+    "game": "Super Mario 3D World + Bowser's Fury",
+    "series": "Super Mario Series",
+    "platforms": [],
+    "abbrName": "Super Mario 3D World + Bowser's Fury"
+  },
+  {
+    "game": "Super Mario Bros",
+    "series": "Super Mario Series",
+    "platforms": [],
+    "abbrName": "Super Mario Bros"
+  },
+  {
+    "game": "Super Mario World",
+    "series": "Super Mario Series",
+    "platforms": [],
+    "abbrName": "Super Mario World"
+  },
+  {
+    "game": "Super Mario Bros. 2",
+    "series": "Super Mario Series",
+    "platforms": [],
+    "abbrName": "Super Mario Bros. 2"
+  },
+  {
+    "game": "Super Mario Bros. 3",
+    "series": "Super Mario Series",
+    "platforms": [],
+    "abbrName": "Super Mario Bros. 3"
+  },
+  {
+    "game": "Super Mario Galaxy",
+    "series": "Super Mario Series",
+    "platforms": [],
+    "abbrName": "Super Mario Galaxy"
+  },
+  {
+    "game": "Runescape",
+    "series": "",
+    "platforms": [],
+    "abbrName": "Runescape"
+  },
+  {
+    "game": "The Simpsons - Hit & Run",
+    "series": "",
+    "platforms": [],
+    "abbrName": "The Simpsons - Hit & Run"
+  },
+  {
+    "game": "Bowser's Inside Story",
+    "series": "Mario & Luigi Series",
+    "platforms": [],
+    "abbrName": "Bowser's Inside Story"
+  },
+  {
+    "game": "Superstar Saga",
+    "series": "Mario & Luigi Series",
+    "platforms": [],
+    "abbrName": "Superstar Saga"
+  },
+  {
+    "game": "Partners in Time",
+    "series": "Mario & Luigi Series",
+    "platforms": [],
+    "abbrName": "Partners in Time"
+  },
+  {
+    "game": "UNDERTALE",
+    "series": "",
+    "platforms": [],
+    "abbrName": "UNDERTALE"
+  },
+  {
+    "game": "A Hat in Time",
+    "series": "",
+    "platforms": [],
+    "abbrName": "A Hat in Time"
+  },
+  {
+    "game": "Okami",
+    "series": "",
+    "platforms": [],
+    "abbrName": "Okami"
+  },
+  {
+    "game": "Phoenix Wright - Ace Attorney - Trials and Tribulations",
+    "series": "Ace Attorney Series",
+    "platforms": [],
+    "abbrName": "Phoenix Wright - Ace Attorney - Trials and Tribulations"
+  },
+  {
+    "game": "Ace Attorney Investigations - Miles Edgeworth",
+    "series": "Ace Attorney Series",
+    "platforms": [],
+    "abbrName": "Ace Attorney Investigations - Miles Edgeworth"
+  },
+  {
+    "game": "Ace Attorney Investigations 2 - Prosecutor's Gambit",
+    "series": "Ace Attorney Series",
+    "platforms": [],
+    "abbrName": "Ace Attorney Investigations 2 - Prosecutor's Gambit"
+  },
+  {
+    "game": "Earthbound Beginnings",
+    "series": "Earthbound Series",
+    "platforms": [],
+    "abbrName": "Earthbound Beginnings"
+  },
+  {
+    "game": "Mother 3",
+    "series": "Earthbound Series",
+    "platforms": [],
+    "abbrName": "Mother 3"
+  },
+  {
+    "game": "Earthbound",
+    "series": "Earthbound Series",
+    "platforms": [],
+    "abbrName": "Earthbound"
+  },
+  {
+    "game": "Duke Nukem 3D",
+    "series": "Duke Nukem Series",
+    "platforms": [],
+    "abbrName": "Duke Nukem 3D"
+  },
+  {
+    "game": "Red, Blue, and Yellow",
+    "series": "Pok\u00e9mon Series",
+    "platforms": [],
+    "abbrName": "Red, Blue, and Yellow"
+  },
+  {
+    "game": "Pok\u00e9mon XD - Gale of Darkness",
+    "series": "Pok\u00e9mon Series",
+    "platforms": [],
+    "abbrName": "Pok\u00e9mon XD - Gale of Darkness"
+  },
+  {
+    "game": "Scarlet and Violet",
+    "series": "Pok\u00e9mon Series",
+    "platforms": [],
+    "abbrName": "Scarlet and Violet"
+  },
+  {
+    "game": "Black 2 and White 2",
+    "series": "Pok\u00e9mon Series",
+    "platforms": [],
+    "abbrName": "Black 2 and White 2"
+  },
+  {
+    "game": "Heart Gold and Soul Silver",
+    "series": "Pok\u00e9mon Series",
+    "platforms": [],
+    "abbrName": "Heart Gold and Soul Silver"
+  },
+  {
+    "game": "Pok\u00e9mon Stadium",
+    "series": "Pok\u00e9mon Series",
+    "platforms": [],
+    "abbrName": "Pok\u00e9mon Stadium"
+  },
+  {
+    "game": "Pok\u00e9mon Stadium 2",
+    "series": "Pok\u00e9mon Series",
+    "platforms": [],
+    "abbrName": "Pok\u00e9mon Stadium 2"
+  },
+  {
+    "game": "Black and White",
+    "series": "Pok\u00e9mon Series",
+    "platforms": [],
+    "abbrName": "Black and White"
+  },
+  {
+    "game": "Gold, Silver, and Crystal",
+    "series": "Pok\u00e9mon Series",
+    "platforms": [],
+    "abbrName": "Gold, Silver, and Crystal"
+  },
+  {
+    "game": "Pok\u00e9mon Colosseum",
+    "series": "Pok\u00e9mon Series",
+    "platforms": [],
+    "abbrName": "Pok\u00e9mon Colosseum"
+  },
+  {
+    "game": "Ruby, Sapphire, and Emerald",
+    "series": "Pok\u00e9mon Series",
+    "platforms": [],
+    "abbrName": "Ruby, Sapphire, and Emerald"
+  },
+  {
+    "game": "Pok\u00e9mon Snap!",
+    "series": "Pok\u00e9mon Series",
+    "platforms": [],
+    "abbrName": "Pok\u00e9mon Snap!"
+  },
+  {
+    "game": "Diamond, Pearl, and Platinum",
+    "series": "Pok\u00e9mon Series",
+    "platforms": [],
+    "abbrName": "Diamond, Pearl, and Platinum"
+  },
+  {
+    "game": "X and Y",
+    "series": "Pok\u00e9mon Series",
+    "platforms": [],
+    "abbrName": "X and Y"
+  },
+  {
+    "game": "Pok\u00e9mon Pinball",
+    "series": "Pok\u00e9mon Series",
+    "platforms": [],
+    "abbrName": "Pok\u00e9mon Pinball"
+  },
+  {
+    "game": "Stardew Valley",
+    "series": "",
+    "platforms": [],
+    "abbrName": "Stardew Valley"
+  },
+  {
+    "game": "Wave Race 64",
+    "series": "",
+    "platforms": [],
+    "abbrName": "Wave Race 64"
+  },
+  {
+    "game": "Donkey Kong Country 2 - Diddy's Kong Quest",
+    "series": "Donkey Kong Series",
+    "platforms": [],
+    "abbrName": "Donkey Kong Country 2 - Diddy's Kong Quest"
+  },
+  {
+    "game": "Diddy Kong Racing",
+    "series": "Donkey Kong Series",
+    "platforms": [],
+    "abbrName": "Diddy Kong Racing"
+  },
+  {
+    "game": "Donkey Kong 64",
+    "series": "Donkey Kong Series",
+    "platforms": [],
+    "abbrName": "Donkey Kong 64"
+  },
+  {
+    "game": "Silent Hill 2",
+    "series": "Silent Hill Series",
+    "platforms": [],
+    "abbrName": "Silent Hill 2"
+  },
+  {
+    "game": "Devil May Cry (2007)",
+    "series": "Devil May Cry Series",
+    "platforms": [],
+    "abbrName": "Devil May Cry (2007)"
+  },
+  {
+    "game": "Yoshi's Story",
+    "series": "Yoshi Series",
+    "platforms": [],
+    "abbrName": "Yoshi's Story"
+  },
+  {
+    "game": "Yoshi's Island",
+    "series": "Yoshi Series",
+    "platforms": [],
+    "abbrName": "Yoshi's Island"
+  },
+  {
+    "game": "Yoshi's Island DS",
+    "series": "Yoshi Series",
+    "platforms": [],
+    "abbrName": "Yoshi's Island DS"
+  },
+  {
+    "game": "Breath of Fire 3",
+    "series": "Breath of Fire Series",
+    "platforms": [],
+    "abbrName": "Breath of Fire 3"
+  },
+  {
+    "game": "Mega Man 10",
+    "series": "Mega Man Series",
+    "platforms": [],
+    "abbrName": "Mega Man 10"
+  },
+  {
+    "game": "Mega Man ZX",
+    "series": "Mega Man Series",
+    "platforms": [],
+    "abbrName": "Mega Man ZX"
+  },
+  {
+    "game": "Mega Man Zero 2",
+    "series": "Mega Man Series",
+    "platforms": [],
+    "abbrName": "Mega Man Zero 2"
+  },
+  {
+    "game": "Mega Man Zero 4",
+    "series": "Mega Man Series",
+    "platforms": [],
+    "abbrName": "Mega Man Zero 4"
+  },
+  {
+    "game": "Mega Man Legends",
+    "series": "Mega Man Series",
+    "platforms": [],
+    "abbrName": "Mega Man Legends"
+  },
+  {
+    "game": "Mega Man Battle Network 3",
+    "series": "Mega Man Series",
+    "platforms": [],
+    "abbrName": "Mega Man Battle Network 3"
+  },
+  {
+    "game": "Mega Man III",
+    "series": "Mega Man Series",
+    "platforms": [],
+    "abbrName": "Mega Man III"
+  },
+  {
+    "game": "Mega Man II",
+    "series": "Mega Man Series",
+    "platforms": [],
+    "abbrName": "Mega Man II"
+  },
+  {
+    "game": "Mega Man Zero 3",
+    "series": "Mega Man Series",
+    "platforms": [],
+    "abbrName": "Mega Man Zero 3"
+  },
+  {
+    "game": "Mario's Super Picross",
+    "series": "Mario Picross Series",
+    "platforms": [],
+    "abbrName": "Mario's Super Picross"
+  },
+  {
+    "game": "Diablo",
+    "series": "Diablo Series",
+    "platforms": [],
+    "abbrName": "Diablo"
+  },
+  {
+    "game": "Tetris",
+    "series": "",
+    "platforms": [],
+    "abbrName": "Tetris"
+  },
+  {
+    "game": "Star Fox 64",
+    "series": "Star Fox Series",
+    "platforms": [],
+    "abbrName": "Star Fox 64"
+  },
+  {
+    "game": "Star Fox Adventures",
+    "series": "Star Fox Series",
+    "platforms": [],
+    "abbrName": "Star Fox Adventures"
+  },
+  {
+    "game": "Cave Story",
+    "series": "",
+    "platforms": [],
+    "abbrName": "Cave Story"
+  },
+  {
+    "game": "Ghost Trick",
+    "series": "",
+    "platforms": [],
+    "abbrName": "Ghost Trick"
+  },
+  {
+    "game": "Ori and the Blind Forest",
+    "series": "",
+    "platforms": [],
+    "abbrName": "Ori and the Blind Forest"
+  },
+  {
+    "game": "Snowboard Kids 2",
+    "series": "Snowboard Kids Series",
+    "platforms": [],
+    "abbrName": "Snowboard Kids 2"
+  },
+  {
+    "game": "Snowboard Kids",
+    "series": "Snowboard Kids Series",
+    "platforms": [],
+    "abbrName": "Snowboard Kids"
+  },
+  {
+    "game": "Luigi's Mansion",
+    "series": "Luigi's Mansion Series",
+    "platforms": [],
+    "abbrName": "Luigi's Mansion"
+  },
+  {
+    "game": "Glover",
+    "series": "",
+    "platforms": [],
+    "abbrName": "Glover"
+  },
+  {
+    "game": "Legacy of Lunatic Kingdom",
+    "series": "Touhou Series",
+    "platforms": [],
+    "abbrName": "Legacy of Lunatic Kingdom"
+  },
+  {
+    "game": "Subterranean Animism",
+    "series": "Touhou Series",
+    "platforms": [],
+    "abbrName": "Subterranean Animism"
+  },
+  {
+    "game": "Embodiment of Scarlet Devil",
+    "series": "Touhou Series",
+    "platforms": [],
+    "abbrName": "Embodiment of Scarlet Devil"
+  },
+  {
+    "game": "Mountain of Faith",
+    "series": "Touhou Series",
+    "platforms": [],
+    "abbrName": "Mountain of Faith"
+  },
+  {
+    "game": "Perfect Cherry Blossom",
+    "series": "Touhou Series",
+    "platforms": [],
+    "abbrName": "Perfect Cherry Blossom"
+  },
+  {
+    "game": "Double Dealing Character",
+    "series": "Touhou Series",
+    "platforms": [],
+    "abbrName": "Double Dealing Character"
+  },
+  {
+    "game": "Imperishable Night",
+    "series": "Touhou Series",
+    "platforms": [],
+    "abbrName": "Imperishable Night"
+  },
+  {
+    "game": "Katamari Damacy",
+    "series": "Katamari Series",
+    "platforms": [],
+    "abbrName": "Katamari Damacy"
+  },
+  {
+    "game": "DOOM II",
+    "series": "DOOM Series",
+    "platforms": [],
+    "abbrName": "DOOM II"
+  },
+  {
+    "game": "The Ultimate DOOM",
+    "series": "DOOM Series",
+    "platforms": [],
+    "abbrName": "The Ultimate DOOM"
+  },
+  {
+    "game": "Pizza Tower",
+    "series": "",
+    "platforms": [],
+    "abbrName": "Pizza Tower"
+  },
+  {
+    "game": "Xenoblade Chronicles",
+    "series": "Xenoblade Series",
+    "platforms": [],
+    "abbrName": "Xenoblade Chronicles"
+  },
+  {
+    "game": "Xenoblade Chronicles 2 - Torna the Golden Country",
+    "series": "Xenoblade Series",
+    "platforms": [],
+    "abbrName": "Xenoblade Chronicles 2 - Torna the Golden Country"
+  },
+  {
+    "game": "Xenoblade Chronicles 2",
+    "series": "Xenoblade Series",
+    "platforms": [],
+    "abbrName": "Xenoblade Chronicles 2"
+  },
+  {
+    "game": "Xenoblade Chronicles 3",
+    "series": "Xenoblade Series",
+    "platforms": [],
+    "abbrName": "Xenoblade Chronicles 3"
+  },
+  {
+    "game": "Uru - Ages Beyond Myst",
+    "series": "Myst Series",
+    "platforms": [],
+    "abbrName": "Uru - Ages Beyond Myst"
+  },
+  {
+    "game": "Bomberman Hero",
+    "series": "Bomberman Series",
+    "platforms": [],
+    "abbrName": "Bomberman Hero"
+  },
+  {
+    "game": "Dark Souls",
+    "series": "Dark Souls Series",
+    "platforms": [],
+    "abbrName": "Dark Souls"
+  },
+  {
+    "game": "Dark Souls 3",
+    "series": "Dark Souls Series",
+    "platforms": [],
+    "abbrName": "Dark Souls 3"
+  },
+  {
+    "game": "Demon's Souls",
+    "series": "Dark Souls Series",
+    "platforms": [],
+    "abbrName": "Demon's Souls"
+  },
+  {
+    "game": "Shin Megami Tensei V",
+    "series": "MegaTen Series",
+    "platforms": [],
+    "abbrName": "Shin Megami Tensei V"
+  },
+  {
+    "game": "Shin Megami Tensei",
+    "series": "MegaTen Series",
+    "platforms": [],
+    "abbrName": "Shin Megami Tensei"
+  },
+  {
+    "game": "Shin Megami Tensei III Nocturne",
+    "series": "MegaTen Series",
+    "platforms": [],
+    "abbrName": "Shin Megami Tensei III Nocturne"
+  },
+  {
+    "game": "Shin Megami Tensei II",
+    "series": "MegaTen Series",
+    "platforms": [],
+    "abbrName": "Shin Megami Tensei II"
+  },
+  {
+    "game": "Outer Wilds",
+    "series": "",
+    "platforms": [],
+    "abbrName": "Outer Wilds"
+  },
+  {
+    "game": "Perfect Dark",
+    "series": "",
+    "platforms": [],
+    "abbrName": "Perfect Dark"
+  },
+  {
+    "game": "Super Meat Boy",
+    "series": "",
+    "platforms": [],
+    "abbrName": "Super Meat Boy"
+  },
+  {
+    "game": "Hollow Knight",
+    "series": "",
+    "platforms": [],
+    "abbrName": "Hollow Knight"
+  },
+  {
+    "game": "Sonic the Hedgehog",
+    "series": "Sonic Series",
+    "platforms": [],
+    "abbrName": "Sonic the Hedgehog"
+  },
+  {
+    "game": "Sonic the Hedgehog (2006)",
+    "series": "Sonic Series",
+    "platforms": [],
+    "abbrName": "Sonic the Hedgehog (2006)"
+  },
+  {
+    "game": "Knuckles' Chaotix",
+    "series": "Sonic Series",
+    "platforms": [],
+    "abbrName": "Knuckles' Chaotix"
+  },
+  {
+    "game": "Sonic Adventure 2",
+    "series": "Sonic Series",
+    "platforms": [],
+    "abbrName": "Sonic Adventure 2"
+  },
+  {
+    "game": "Sonic R",
+    "series": "Sonic Series",
+    "platforms": [],
+    "abbrName": "Sonic R"
+  },
+  {
+    "game": "Sonic Adventure",
+    "series": "Sonic Series",
+    "platforms": [],
+    "abbrName": "Sonic Adventure"
+  },
+  {
+    "game": "Sonic the Hedgehog 3 & Knuckles",
+    "series": "Sonic Series",
+    "platforms": [],
+    "abbrName": "Sonic the Hedgehog 3 & Knuckles"
+  },
+  {
+    "game": "Sonic Colors",
+    "series": "Sonic Series",
+    "platforms": [],
+    "abbrName": "Sonic Colors"
+  },
+  {
+    "game": "Sonic Spinball",
+    "series": "Sonic Series",
+    "platforms": [],
+    "abbrName": "Sonic Spinball"
+  },
+  {
+    "game": "Age of Empires",
+    "series": "Age of Empires Series",
+    "platforms": [],
+    "abbrName": "Age of Empires"
+  },
+  {
+    "game": "Age of Empires - The Rise of Rome Expansion",
+    "series": "Age of Empires Series",
+    "platforms": [],
+    "abbrName": "Age of Empires - The Rise of Rome Expansion"
+  },
+  {
+    "game": "Bastion",
+    "series": "",
+    "platforms": [],
+    "abbrName": "Bastion"
+  },
+  {
+    "game": "Kirby Super Star",
+    "series": "Kirby Series",
+    "platforms": [],
+    "abbrName": "Kirby Super Star"
+  },
+  {
+    "game": "Kirby 64 - The Crystal Shards",
+    "series": "Kirby Series",
+    "platforms": [],
+    "abbrName": "Kirby 64 - The Crystal Shards"
+  },
+  {
+    "game": "Kirby's Adventure",
+    "series": "Kirby Series",
+    "platforms": [],
+    "abbrName": "Kirby's Adventure"
+  },
+  {
+    "game": "Kirby - Squeak Squad",
+    "series": "Kirby Series",
+    "platforms": [],
+    "abbrName": "Kirby - Squeak Squad"
+  },
+  {
+    "game": "Kirby Air Ride",
+    "series": "Kirby Series",
+    "platforms": [],
+    "abbrName": "Kirby Air Ride"
+  },
+  {
+    "game": "Kirby Mass Attack",
+    "series": "Kirby Series",
+    "platforms": [],
+    "abbrName": "Kirby Mass Attack"
+  },
+  {
+    "game": "!~Misc",
+    "series": "",
+    "platforms": [],
+    "abbrName": "!~Misc"
+  },
+  {
+    "game": "Super Spamton 64",
+    "series": "!~Misc",
+    "platforms": [],
+    "abbrName": "Super Spamton 64"
+  },
+  {
+    "game": "The Legend of Zelda - Master of Time",
+    "series": "!~Misc",
+    "platforms": [],
+    "abbrName": "The Legend of Zelda - Master of Time"
+  },
+  {
+    "game": "Zelda 64 - Dawn and Dusk",
+    "series": "!~Misc",
+    "platforms": [],
+    "abbrName": "Zelda 64 - Dawn and Dusk"
+  },
+  {
+    "game": "Super Smash Bros. Brawl",
+    "series": "Super Smash Bros. Series",
+    "platforms": [],
+    "abbrName": "Super Smash Bros. Brawl"
+  },
+  {
+    "game": "Super Smash Bros. Melee",
+    "series": "Super Smash Bros. Series",
+    "platforms": [],
+    "abbrName": "Super Smash Bros. Melee"
+  },
+  {
+    "game": "Aria of Sorrow",
+    "series": "Castlevania Series",
+    "platforms": [],
+    "abbrName": "Aria of Sorrow"
+  },
+  {
+    "game": "Symphony of the Night",
+    "series": "Castlevania Series",
+    "platforms": [],
+    "abbrName": "Symphony of the Night"
+  },
+  {
+    "game": "Halo - Combat Evolved",
+    "series": "Halo Series",
+    "platforms": [],
+    "abbrName": "Halo - Combat Evolved"
+  },
+  {
+    "game": "Halo 3",
+    "series": "Halo Series",
+    "platforms": [],
+    "abbrName": "Halo 3"
+  },
+  {
+    "game": "Halo 3 - ODST",
+    "series": "Halo Series",
+    "platforms": [],
+    "abbrName": "Halo 3 - ODST"
+  },
+  {
+    "game": "An Untitled Story",
+    "series": "",
+    "platforms": [],
+    "abbrName": "An Untitled Story"
+  },
+  {
+    "game": "Mario Kart DS",
+    "series": "Mario Kart Series",
+    "platforms": [],
+    "abbrName": "Mario Kart DS"
+  },
+  {
+    "game": "Dragon Ball Z - Legend of Goku II",
+    "series": "Dragon Ball Series",
+    "platforms": [],
+    "abbrName": "Dragon Ball Z - Legend of Goku II"
+  },
+  {
+    "game": "Nintendo 3DS",
+    "series": "",
+    "platforms": [],
+    "abbrName": "Nintendo 3DS"
+  },
+  {
+    "game": "Quattro Adventure (NES)",
+    "series": "",
+    "platforms": [],
+    "abbrName": "Quattro Adventure (NES)"
+  },
+  {
+    "game": "Illusion of Gaia",
+    "series": "",
+    "platforms": [],
+    "abbrName": "Illusion of Gaia"
+  },
+  {
+    "game": "Three Houses",
+    "series": "Fire Emblem Series",
+    "platforms": [],
+    "abbrName": "Three Houses"
+  },
+  {
+    "game": "Chrono Trigger",
+    "series": "",
+    "platforms": [],
+    "abbrName": "Chrono Trigger"
+  },
+  {
+    "game": "Terranigma",
+    "series": "",
+    "platforms": [],
+    "abbrName": "Terranigma"
+  },
+  {
+    "game": "Kingdom Hearts Birth by Sleep",
+    "series": "Kingdom Hearts Series",
+    "platforms": [],
+    "abbrName": "Kingdom Hearts Birth by Sleep"
+  },
+  {
+    "game": "Kingdom Hearts 358 Days Over 2",
+    "series": "Kingdom Hearts Series",
+    "platforms": [],
+    "abbrName": "Kingdom Hearts 358 Days Over 2"
+  },
+  {
+    "game": "Kingdom Hearts II",
+    "series": "Kingdom Hearts Series",
+    "platforms": [],
+    "abbrName": "Kingdom Hearts II"
+  },
+  {
+    "game": "Kingdom Hearts",
+    "series": "Kingdom Hearts Series",
+    "platforms": [],
+    "abbrName": "Kingdom Hearts"
+  },
+  {
+    "game": "Chrono Cross",
+    "series": "",
+    "platforms": [],
+    "abbrName": "Chrono Cross"
+  },
+  {
+    "game": "Chip's Challenge",
+    "series": "",
+    "platforms": [],
+    "abbrName": "Chip's Challenge"
+  },
+  {
+    "game": "Action 52",
+    "series": "",
+    "platforms": [],
+    "abbrName": "Action 52"
+  },
+  {
+    "game": "GoldenEye 007",
+    "series": "James Bond Series",
+    "platforms": [],
+    "abbrName": "GoldenEye 007"
+  },
+  {
+    "game": "Rayman",
+    "series": "Rayman Series",
+    "platforms": [],
+    "abbrName": "Rayman"
+  },
+  {
+    "game": "SaGa Frontier",
+    "series": "SaGa Series",
+    "platforms": [],
+    "abbrName": "SaGa Frontier"
+  },
+  {
+    "game": "Off",
+    "series": "",
+    "platforms": [],
+    "abbrName": "Off"
+  },
+  {
+    "game": "Wonder Boy 3",
+    "series": "Wonder Boy Series",
+    "platforms": [],
+    "abbrName": "Wonder Boy 3"
+  },
+  {
+    "game": "Paper Mario",
+    "series": "Paper Mario Series",
+    "platforms": [],
+    "abbrName": "Paper Mario"
+  },
+  {
+    "game": "Paper Mario - The Origami King",
+    "series": "Paper Mario Series",
+    "platforms": [],
+    "abbrName": "Paper Mario - The Origami King"
+  },
+  {
+    "game": "Paper Mario - The Thousand-Year Door",
+    "series": "Paper Mario Series",
+    "platforms": [],
+    "abbrName": "Paper Mario - The Thousand-Year Door"
+  },
+  {
+    "game": "A Link Between Worlds",
+    "series": "The Legend of Zelda Series",
+    "platforms": [],
+    "abbrName": "A Link Between Worlds"
+  },
+  {
+    "game": "Twilight Princess",
+    "series": "The Legend of Zelda Series",
+    "platforms": [],
+    "abbrName": "Twilight Princess"
+  },
+  {
+    "game": "A Link to the Past",
+    "series": "The Legend of Zelda Series",
+    "platforms": [],
+    "abbrName": "A Link to the Past"
+  },
+  {
+    "game": "The Wind Waker",
+    "series": "The Legend of Zelda Series",
+    "platforms": [],
+    "abbrName": "The Wind Waker"
+  },
+  {
+    "game": "The Minish Cap",
+    "series": "The Legend of Zelda Series",
+    "platforms": [],
+    "abbrName": "The Minish Cap"
+  },
+  {
+    "game": "Freshly-Picked Tingle's Rosy Rupeeland",
+    "series": "The Legend of Zelda Series",
+    "platforms": [],
+    "abbrName": "Freshly-Picked Tingle's Rosy Rupeeland"
+  },
+  {
+    "game": "Adventure of Link",
+    "series": "The Legend of Zelda Series",
+    "platforms": [],
+    "abbrName": "Adventure of Link"
+  },
+  {
+    "game": "Link's Awakening",
+    "series": "The Legend of Zelda Series",
+    "platforms": [],
+    "abbrName": "Link's Awakening"
+  },
+  {
+    "game": "Phantom Hourglass",
+    "series": "The Legend of Zelda Series",
+    "platforms": [],
+    "abbrName": "Phantom Hourglass"
+  },
+  {
+    "game": "Oracle of Seasons",
+    "series": "The Legend of Zelda Series",
+    "platforms": [],
+    "abbrName": "Oracle of Seasons"
+  },
+  {
+    "game": "Tears of the Kingdom",
+    "series": "The Legend of Zelda Series",
+    "platforms": [],
+    "abbrName": "Tears of the Kingdom"
+  },
+  {
+    "game": "Tingle's Balloon Trip of Love",
+    "series": "The Legend of Zelda Series",
+    "platforms": [],
+    "abbrName": "Tingle's Balloon Trip of Love"
+  },
+  {
+    "game": "Majora's Mask",
+    "series": "The Legend of Zelda Series",
+    "platforms": [],
+    "abbrName": "Majora's Mask"
+  },
+  {
+    "game": "Skyward Sword",
+    "series": "The Legend of Zelda Series",
+    "platforms": [],
+    "abbrName": "Skyward Sword"
+  },
+  {
+    "game": "Ocarina of Time",
+    "series": "The Legend of Zelda Series",
+    "platforms": [],
+    "abbrName": "Ocarina of Time"
+  },
+  {
+    "game": "The Legend of Zelda",
+    "series": "The Legend of Zelda Series",
+    "platforms": [],
+    "abbrName": "The Legend of Zelda"
+  },
+  {
+    "game": "Hyrule Warriors - Age of Calamity",
+    "series": "The Legend of Zelda Series",
+    "platforms": [],
+    "abbrName": "Hyrule Warriors - Age of Calamity"
+  },
+  {
+    "game": "Oracle of Ages",
+    "series": "The Legend of Zelda Series",
+    "platforms": [],
+    "abbrName": "Oracle of Ages"
+  },
+  {
+    "game": "Spirit Tracks",
+    "series": "The Legend of Zelda Series",
+    "platforms": [],
+    "abbrName": "Spirit Tracks"
+  },
+  {
+    "game": "Hyrule Warriors",
+    "series": "The Legend of Zelda Series",
+    "platforms": [],
+    "abbrName": "Hyrule Warriors"
+  },
+  {
+    "game": "Conker's Bad Fur Day",
+    "series": "",
+    "platforms": [],
+    "abbrName": "Conker's Bad Fur Day"
+  },
+  {
+    "game": "Super Metroid",
+    "series": "Metroid Series",
+    "platforms": [],
+    "abbrName": "Super Metroid"
+  },
+  {
+    "game": "Metroid Prime 2 - Echoes",
+    "series": "Metroid Series",
+    "platforms": [],
+    "abbrName": "Metroid Prime 2 - Echoes"
+  },
+  {
+    "game": "Metroid",
+    "series": "Metroid Series",
+    "platforms": [],
+    "abbrName": "Metroid"
+  },
+  {
+    "game": "Metroid Prime",
+    "series": "Metroid Series",
+    "platforms": [],
+    "abbrName": "Metroid Prime"
+  },
+  {
+    "game": "Persona 4",
+    "series": "Persona Series",
+    "platforms": [],
+    "abbrName": "Persona 4"
+  },
+  {
+    "game": "Persona 3",
+    "series": "Persona Series",
+    "platforms": [],
+    "abbrName": "Persona 3"
+  },
+  {
+    "game": "Persona 5",
+    "series": "Persona Series",
+    "platforms": [],
+    "abbrName": "Persona 5"
+  },
+  {
+    "game": "Persona 3 FES",
+    "series": "Persona Series",
+    "platforms": [],
+    "abbrName": "Persona 3 FES"
+  },
+  {
+    "game": "Ducktales",
+    "series": "",
+    "platforms": [],
+    "abbrName": "Ducktales"
+  },
+  {
+    "game": "Animal Crossing",
+    "series": "Animal Crossing Series",
+    "platforms": [],
+    "abbrName": "Animal Crossing"
+  },
+  {
+    "game": "Animal Crossing - Wild World",
+    "series": "Animal Crossing Series",
+    "platforms": [],
+    "abbrName": "Animal Crossing - Wild World"
+  },
+  {
+    "game": "!~Source Unknown",
+    "series": "",
+    "platforms": [],
+    "abbrName": "!~Source Unknown"
+  },
+  {
+    "game": "Professor Layton and the Last Specter",
+    "series": "Professor Layton Series",
+    "platforms": [],
+    "abbrName": "Professor Layton and the Last Specter"
+  },
+  {
+    "game": "Professor Layton and the Curious Village",
+    "series": "Professor Layton Series",
+    "platforms": [],
+    "abbrName": "Professor Layton and the Curious Village"
+  },
+  {
+    "game": "Robocop (Gameboy)",
+    "series": "",
+    "platforms": [],
+    "abbrName": "Robocop (Gameboy)"
+  },
+  {
+    "game": "Wario Land",
+    "series": "Wario Series",
+    "platforms": [],
+    "abbrName": "Wario Land"
+  },
+  {
+    "game": "Wario Land 4",
+    "series": "Wario Series",
+    "platforms": [],
+    "abbrName": "Wario Land 4"
+  },
+  {
+    "game": "WarioWare Touched!",
+    "series": "Wario Series",
+    "platforms": [],
+    "abbrName": "WarioWare Touched!"
+  },
+  {
+    "game": "Wario Land II",
+    "series": "Wario Series",
+    "platforms": [],
+    "abbrName": "Wario Land II"
+  },
+  {
+    "game": "M.C. Kids",
+    "series": "",
+    "platforms": [],
+    "abbrName": "M.C. Kids"
+  },
+  {
+    "game": "Genshin Impact",
+    "series": "",
+    "platforms": [],
+    "abbrName": "Genshin Impact"
+  },
+  {
+    "game": "eCrew Development Program",
+    "series": "",
+    "platforms": [],
+    "abbrName": "eCrew Development Program"
+  },
+  {
+    "game": "NieR Automata",
+    "series": "NieR Series",
+    "platforms": [],
+    "abbrName": "NieR Automata"
+  },
+  {
+    "game": "NieR Gestalt & Replicant",
+    "series": "NieR Series",
+    "platforms": [],
+    "abbrName": "NieR Gestalt & Replicant"
+  },
+  {
+    "game": "Advance Wars 2 - Black Hole Rising",
+    "series": "Advance Wars Series",
+    "platforms": [],
+    "abbrName": "Advance Wars 2 - Black Hole Rising"
+  },
+  {
+    "game": "Sheriff Domestic",
+    "series": "",
+    "platforms": [],
+    "abbrName": "Sheriff Domestic"
+  },
+  {
+    "game": "Super Godzilla",
+    "series": "",
+    "platforms": [],
+    "abbrName": "Super Godzilla"
+  },
+  {
+    "game": "Melty Blood Actress Again",
+    "series": "Melty Blood Series",
+    "platforms": [],
+    "abbrName": "Melty Blood Actress Again"
+  },
+  {
+    "game": "Minecraft",
+    "series": "",
+    "platforms": [],
+    "abbrName": "Minecraft"
+  },
+  {
+    "game": "Xenogears",
+    "series": "Xenogears Series",
+    "platforms": [],
+    "abbrName": "Xenogears"
+  },
+  {
+    "game": "Castle Crashers",
+    "series": "",
+    "platforms": [],
+    "abbrName": "Castle Crashers"
+  },
+  {
+    "game": "Rune Factory 3",
+    "series": "Rune Factory Series",
+    "platforms": [],
+    "abbrName": "Rune Factory 3"
+  },
+  {
+    "game": "Rune Factory 1",
+    "series": "Rune Factory Series",
+    "platforms": [],
+    "abbrName": "Rune Factory 1"
+  },
+  {
+    "game": "Startropics",
+    "series": "Startropics Series",
+    "platforms": [],
+    "abbrName": "Startropics"
+  },
+  {
+    "game": "Earthworm Jim",
+    "series": "Earthworm Jim Series",
+    "platforms": [],
+    "abbrName": "Earthworm Jim"
+  },
+  {
+    "game": "Earthworm Jim 2",
+    "series": "Earthworm Jim Series",
+    "platforms": [],
+    "abbrName": "Earthworm Jim 2"
+  },
+  {
+    "game": "Space Harrier",
+    "series": "",
+    "platforms": [],
+    "abbrName": "Space Harrier"
+  },
+  {
+    "game": "Blue Rescue Team & Red Rescue Team",
+    "series": "Pok\u00e9mon Mystery Dungeon Series",
+    "platforms": [],
+    "abbrName": "Blue Rescue Team & Red Rescue Team"
+  },
+  {
+    "game": "Explorers of Time, Darkness, and Sky",
+    "series": "Pok\u00e9mon Mystery Dungeon Series",
+    "platforms": [],
+    "abbrName": "Explorers of Time, Darkness, and Sky"
+  },
+  {
+    "game": "OMORI",
+    "series": "",
+    "platforms": [],
+    "abbrName": "OMORI"
+  },
+  {
+    "game": "Octopath Traveler",
+    "series": "",
+    "platforms": [],
+    "abbrName": "Octopath Traveler"
+  },
+  {
+    "game": "Chex Quest",
+    "series": "",
+    "platforms": [],
+    "abbrName": "Chex Quest"
+  },
+  {
+    "game": "Banjo Tooie",
+    "series": "Banjo Kazooie Series",
+    "platforms": [],
+    "abbrName": "Banjo Tooie"
+  },
+  {
+    "game": "Banjo Kazooie",
+    "series": "Banjo Kazooie Series",
+    "platforms": [],
+    "abbrName": "Banjo Kazooie"
+  },
+  {
+    "game": "Resident Evil - Director's Cut",
+    "series": "Resident Evil Series",
+    "platforms": [],
+    "abbrName": "Resident Evil - Director's Cut"
+  },
+  {
+    "game": "Resident Evil 4",
+    "series": "Resident Evil Series",
+    "platforms": [],
+    "abbrName": "Resident Evil 4"
+  },
+  {
+    "game": "Nintendo Wii",
+    "series": "",
+    "platforms": [],
+    "abbrName": "Nintendo Wii"
+  },
+  {
+    "game": "Skyrim",
+    "series": "The Elder Scrolls Series",
+    "platforms": [],
+    "abbrName": "Skyrim"
+  },
+  {
+    "game": "!~Original Compositions",
+    "series": "",
+    "platforms": [],
+    "abbrName": "!~Original Compositions"
+  },
+  {
+    "game": "The Legend of Zelda - Feesh Mode",
+    "series": "!~Original Compositions",
+    "platforms": [],
+    "abbrName": "The Legend of Zelda - Feesh Mode"
+  },
+  {
+    "game": "Fate EXTRA",
+    "series": "Fate Series",
+    "platforms": [],
+    "abbrName": "Fate EXTRA"
+  }
+]
